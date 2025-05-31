@@ -1,14 +1,12 @@
-# 🧠 Income Prediction using Adult Census Data
+#  Income Prediction using Adult Census Data
 
 This project is a step-by-step machine learning pipeline to predict whether a person's income exceeds $50K/year based on census data.
 
-## 📂 Files Included
+##  Files Included
 - `train.csv` / `test.csv`: Data used for training and testing
-- `income_prediction.py`: Complete code walkthrough
-- `visualizations.png`: Exploratory Data Analysis charts
-- `models/`: Folder containing trained models (if any)
-
-## 📌 Project Steps
+- `income_prediction.ipynb`: Complete code walkthrough
+- 
+##  Project Steps
 1. Data Loading & Understanding
 2. Exploratory Data Analysis (EDA)
 3. Data Preprocessing
@@ -17,30 +15,27 @@ This project is a step-by-step machine learning pipeline to predict whether a pe
 6. Model Evaluation
 7. Insights & Visualizations
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python (Pandas, NumPy)
 - Scikit-learn
 - Seaborn & Matplotlib
 - Jupyter Notebook
 
-## 🔍 Dataset Source
-UCI Machine Learning Repository - [Adult Data Set](https://archive.ics.uci.edu/ml/datasets/adult)
+## Dataset Source
+UCI Machine Learning Repository - [Adult Data Set]
 
-## 📊 Sample Visuals
+## Sample Visuals
 - Age distribution by income
 - Education level vs income
 - Hours worked vs income level
 - Gender and income correlation
 
-## 📈 Model Accuracy
+## Model Accuracy
 - Logistic Regression: 82.5%
 - Random Forest: 85.7%
 - Gradient Boosting: 86.3%
 
-## 🙋‍♀️ Author
+## Author
 Maitri Jain  
 Email: maitrijain989@gmail.com  
-LinkedIn: [Your_Link]
 
-## 📄 License
-This project is licensed under the MIT License.
